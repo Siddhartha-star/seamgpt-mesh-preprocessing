@@ -145,9 +145,6 @@ Every open-source contribution begins with clean data.
 If you push this to GitHub, set your repository description as:
 > *“3D mesh preprocessing pipeline for SeamGPT — turning geometry into learnable data.”*
 
-And add these GitHub tags:
-
-
-#3d #ai #graphics #mesh #python #machinelearning #research
-
-
+![Python](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python)
+![AI-3D](https://img.shields.io/badge/AI%20%2B%203D%20Geometry-Research%20Driven-red?style=for-the-badge&logo=github)
+![OpenSource](https://img.shields.io/badge/Open%20Source-Contribution%20Ready-success?style=for-the-badge&logo=github)
