@@ -1,0 +1,8 @@
+numpy
+trimesh
+matplotlib
+scikit-learn
+tqdm
+markdown
+reportlab
+Pillow
